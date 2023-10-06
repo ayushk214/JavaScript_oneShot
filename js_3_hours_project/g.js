@@ -19,7 +19,6 @@ const user = {
       }, 1000);
     });
   }
-
   function deletePost() {
     return new Promise((resolve) => {
       setTimeout(() => {
