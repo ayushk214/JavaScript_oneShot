@@ -4,7 +4,6 @@ axios.defaults.headers.common['X_Auth-Token']='sometoken'
 
 
 
-
 // GET REQUEST
 function getTodos() {
   // axios({
